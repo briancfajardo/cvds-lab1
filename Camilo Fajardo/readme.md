@@ -20,4 +20,7 @@ Y los ordenaría de acuerdo a la prioridad de la siguiente manera:
 
 Por otro lado, pueden ver mi hoja de vida haciendo click [aqui](https://briancfajardo.github.io).
 
-Y pensar que todo inició con un 'print("Hola mundo")'
+Y pensar que todo inició con un 
+~~~
+print("Hola mundo")
+~~~
