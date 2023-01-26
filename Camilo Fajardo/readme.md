@@ -6,7 +6,16 @@
 
 En mi vida he tenido:
 
-- Perros
 - Gatos
+- Perros
 - Pajaros
 - Peces
+
+Y los ordenaría de acuerdo a la prioridad de la siguiente manera:
+
+1. Perros
+2. Peces
+3. Gatos
+4. Pajaros
+
+Por otro lado
