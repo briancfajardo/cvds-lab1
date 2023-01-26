@@ -18,4 +18,5 @@ Y los ordenaría de acuerdo a la prioridad de la siguiente manera:
 2. Gatos
 4. Pajaros
 
-Por otro lado
+Por otro lado, pueden ver mi hoja de vida haciendo click [aqui](briancfajardo.github.io)
+
