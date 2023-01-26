@@ -1,6 +1,6 @@
 # Camilo Fajardo
 
-## Estudiante de Ingeniería de Sistemas
+## Estudiante de Ingeniería de Sistemas en la ECI
 
 *Tengo 21 años*, **Vivo en Bogotá** desde que nací, vivo con mi hermana, mi mamá y mis dos gatos, un macho llamado Azlan y una hembra llamada Anya.
 
@@ -18,5 +18,6 @@ Y los ordenaría de acuerdo a la prioridad de la siguiente manera:
 2. Gatos
 4. Pajaros
 
-Por otro lado, pueden ver mi hoja de vida haciendo click [aqui](https://briancfajardo.github.io)
+Por otro lado, pueden ver mi hoja de vida haciendo click [aqui](https://briancfajardo.github.io).
 
+Y pensar que todo inició con un 'print("Hola mundo")'
