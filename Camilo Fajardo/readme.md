@@ -25,3 +25,7 @@ Y pensar que todo inició con un
 ~~~
 print("Hola mundo")
 ~~~
+
+## Fotos del curso de git:
+![](EjerciciosCamiloMain.png)
+![](EjerciciosCamiloRemote.png)
