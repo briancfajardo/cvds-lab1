@@ -33,3 +33,14 @@ Los nombres y edades de mis dos hermanas mayores son:
 * SIML
 
 Para más información acerca del plan de estudios consultar <https://www.escuelaing.edu.co/es/programas/ingenieria-de-sistemas/>
+
+
+# Git Branching
+
+## Sección "Main"
+![]https://github.com/briancfajardo/cvds-lab1/blob/master/Andrea%20Duran/Lab1%20SS/Principal%20GITpng.png
+
+
+## Sección "Remote"
+![]https://github.com/briancfajardo/cvds-lab1/blob/master/Andrea%20Duran/Lab1%20SS/Remota%20GIT.png
+
