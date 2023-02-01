@@ -38,9 +38,9 @@ Para más información acerca del plan de estudios consultar <https://www.escuel
 # Git Branching
 
 ## Sección "Main"
-![]https://github.com/briancfajardo/cvds-lab1/blob/master/Andrea%20Duran/Lab1%20SS/Principal%20GITpng.png
+![](https://github.com/briancfajardo/cvds-lab1/blob/master/Andrea%20Duran/Lab1%20SS/Principal%20GITpng.png)
 
 
 ## Sección "Remote"
-![]https://github.com/briancfajardo/cvds-lab1/blob/master/Andrea%20Duran/Lab1%20SS/Remota%20GIT.png
+![](https://github.com/briancfajardo/cvds-lab1/blob/master/Andrea%20Duran/Lab1%20SS/Remota%20GIT.png)
 
